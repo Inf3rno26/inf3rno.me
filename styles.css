@@ -1,0 +1,86 @@
+    body {
+        background: rgb(19, 18, 18);
+    }
+    
+    .name {
+        text-align: center;
+        color: white;
+        font-size: 44px;
+        padding: 8px;
+    }
+    
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: -1%;
+        height: 200px;
+        border-radius: 20%;
+        max-width: 228px;
+    }
+    
+    .hi {
+        font-size: xx-large;
+        padding: 2px;
+        color: white;
+        text-align: center;
+    }
+    
+    .inner-link {
+        background-color: rgb(red, green, blue);
+        text-align: center;
+    }
+    
+    .inner-link a {
+        color: white;
+        font-size: xx-large;
+        border: 3px solid rgb(200, 44, 162);
+        display: block;
+        width: 242px;
+        margin-right: auto;
+        margin-left: auto;
+        border-radius: -25px;
+    }
+    
+    a {
+        text-decoration: none;
+        transition: all 0.3s ease-in;
+    }
+    
+    a:hover {
+        color: black;
+        background-color: white;
+    }
+    
+    .socials {
+        font-size: 50px;
+        color: chocolate;
+        text-decoration: underline;
+    }
+    
+    .discord {
+        font-size: auto;
+        color: chocolate;
+        text-decoration: underline;
+    }
+    
+    .portfolio {
+        font-size: auto;
+        color: chocolate;
+        text-decoration: underline;
+    }
+    
+    footer {
+        font-size: x-large;
+        text-align: center;
+        padding: 5px;
+        margin: auto;
+        border-radius: 50px;
+    }
+    
+    footer span {
+        padding-top: 10px;
+        font-size: x-large;
+        font-weight: bold;
+        color: aqua;
+    }
